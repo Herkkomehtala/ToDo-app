@@ -1,0 +1,2 @@
+DELETE  http://127.0.0.1:3000/todos/6180dddee9a698d890c192f0
+Content-Type: application/json
