@@ -63,5 +63,5 @@ app.put('/todos/:id', async (request, response) => {
 
 // app listen port 3000
 app.listen(port, () => {
-  console.log('Example app listening on port 3000')
+  console.log('ToDo app listening on port 3000')
 })
