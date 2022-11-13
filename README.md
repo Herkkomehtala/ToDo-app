@@ -27,6 +27,7 @@ Yes, that's right. Thanks to MongoDB cloud integration, you can add your to-do l
 
 1. [Install node](https://nodejs.org/en/download/), if you haven't already.  
 2. Download this repository.  
+4. Navigate to todo-backend/ and run command **npm install** 
 3. Create a [MongoDB cloud database](https://www.mongodb.com/) (There is a free option!)  
 4. Add your MongoDB cluster application connection string to todo-backend/index.js as shown in picture:
 
